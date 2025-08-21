@@ -35,7 +35,7 @@
  * Update the foundational and global aspects of the page.
  */
 
-* {
+ * {
   -webkit-box-sizing: border-box;
      -moz-box-sizing: border-box;
           box-sizing: border-box;
@@ -70,6 +70,27 @@ a {
   color: #268bd2;
   text-decoration: none;
 }
+
+a.label:hover,
+a.label:focus {
+  color: #fff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.badge-base {
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: bold;
+    line-height: 1;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+}
+
 a strong {
   color: inherit;
 }
@@ -250,7 +271,43 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
+.badge-iiswc {
+  background-color: #A1045B;
+}
+.badge-iclr {
+  background-color: #485b67;
+}
+.badge-hpca {
+  background-color: #e0115f;
+}
+.badge-ispass {
+  background-color: #d070fb;
+}
+.badge-access {
+  background-color: #1101f3;
+}
+.badge-tpds {
+  background-color: #485b67;
+}
+.badge-mlsys {
+  background-color: #14213d;
+}
+.badge-dac {
+  background-color: #98c222;
+}
+.badge-ipdps {
+  background-color: #ec2b2b;
+}
+.badge-ksc {
+  background-color: #900C3F;
+}
+.badge-igarss {
+  background-color: #d0a545;
+}
 
+.badge-ksas {
+  background-color:  #00e6e6;
+}
 
 /*
  * Custom type
@@ -259,7 +316,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.00rem;
   font-weight: 300;
 }
 
