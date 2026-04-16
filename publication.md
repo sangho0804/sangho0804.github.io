@@ -6,7 +6,7 @@ title: Publication
 For the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=thVbLK8AAAAJ&hl=ko&oi=ao).
 
 ### 2025
-<a class="badge-base badge-ksc" href="https://iemek.org/" target="_blank">ISET'25</a> **Implementation of a Real Time Multi-Resolution Video Processing Pipeline Using NVIDIA DeepStream**  
+<a class="badge-base badge-iset" href="https://iemek.org/" target="_blank">ISET'25</a> **Implementation of a Real Time Multi-Resolution Video Processing Pipeline Using NVIDIA DeepStream**  
 Jingyung Choi, <ins>Sangho Ha</ins>, Hyungshin Kim  
 In Proc. of the IeMeK Symposium on Embedded Technology (**ISET**)  
 NOV 2025  
