@@ -271,8 +271,8 @@ tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
   background-color: #f9f9f9;
 }
-.badge-iiswc {
-  background-color: #A1045B;
+.badge-iset {
+  background-color: #ff008c;
 }
 .badge-iclr {
   background-color: #485b67;
@@ -280,7 +280,7 @@ tbody tr:nth-child(odd) th {
 .badge-hpca {
   background-color: #e0115f;
 }
-.badge-iset {
+.badge-test {
   background-color: #d070fb;
 }
 .badge-access {
@@ -304,7 +304,6 @@ tbody tr:nth-child(odd) th {
 .badge-igarss {
   background-color: #d0a545;
 }
-
 .badge-ksas {
   background-color:  #00e6e6;
 }
