@@ -3,9 +3,9 @@ layout: page
 title: Home
 ---
 -------------------------------------------------------
-I am a Master’s student in Computer Science at Chungnam National University, advised by Professor [Hyungshin Kim](https://computer.cnu.ac.kr/computer/intro/faculty01.do?mode=view&key=LZStrEwBhBYEY0gOI%20&pager.offset=0&pagerLimit=10) as a member of the [Embedded Systems Lab](https://eslab.cnu.ac.kr/).
+I was a Master’s student in Computer Science at Chungnam National University, advised by Professor [Hyungshin Kim](https://computer.cnu.ac.kr/computer/intro/faculty01.do?mode=view&key=LZStrEwBhBYEY0gOI%20&pager.offset=0&pagerLimit=10) as a member of the [Embedded Systems Lab](https://eslab.cnu.ac.kr/).
 
-The PDF version of CV is available at the [link.]({{ site.baseurl }}public/Sangho_Ha_CV_2508.pdf) 
+The PDF version of CV is available at the [link.]({{ site.baseurl }}public/Sangho_Ha_CV_2604.pdf) 
 
 ### Education
 

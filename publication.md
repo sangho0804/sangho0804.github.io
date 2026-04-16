@@ -4,7 +4,14 @@ title: Publication
 ---
 -------------------------------------------------------
 For the full list, please refer to [Google Scholar](https://scholar.google.com/citations?user=thVbLK8AAAAJ&hl=ko&oi=ao).
+
 ### 2025
+<a class="badge-base badge-iset" href="https://iemek.org/" target="_blank">iSET'25</a> **Implementation of a Real Time Multi-Resolution Video Processing Pipeline Using NVIDIA DeepStream**  
+Jingyung Choi, <ins>Sangho Ha</ins>, Hyungshin Kim  
+In Proc. of the IeMeK Symposium on Embedded Technology (**ISET**)  
+NOV 2025  
+[[Paper]](https://iemek.org/Conference/ConferenceView.asp?top_param=&sub_param=&AC=0&CODE=CC20250901&CpPage=660#CONF)
+
 <a class="badge-base badge-access" href="https://ieeeaccess.ieee.org/" target="_blank">IEEE Access</a> **Accelerated ElasticTrainer With Elastic Layer Selection**  
 <ins>Sangho Ha</ins>, Hyungshin Kim  
 Jul 2025  
